@@ -1,2 +1,2 @@
-# background-remover
-Turns pixels white if this pixel was on bg-picture.
+# Background remover
+This program gets at least 2 pictures on the input: a picture with which you need to remove the background picture (Source) and background picture (Background). In Source, all pixels matching the Background pixels (color and location) will be converted to white and the resulting image will be saved in the result folder created in the specified Source Folder in the same format as the Source Folder.
