@@ -1,4 +1,5 @@
 # Background remover
+Console program in Russian.
 This program gets at least 2 pictures on the input: a picture with which you need to remove the background picture (Source) and background picture (Background). In Source, all pixels matching the Background pixels (color and location) will be converted to white and the resulting image will be saved in the result folder created in the specified Source Folder in the same format as the Source Folder.
 
 # ATTENTION!
@@ -12,6 +13,7 @@ It is recommended to use pictures in . png format, but also allowed format .jpg.
 
 
 # Удаление фона
+Консольная программа на русском.
 Данная программа получает на вход минимум 2 картинки: картинка, с которой надо убрать фоновую картинку (далее Исходник) и фоновая картинка (далее Фон). На Исходнике все пиксели, совпадающие с пикселями Фона (цветом и расположением), перекрасятся в белый цвет и полученая картинка сохранится в папке result, созданной в указанной папке, в том же формате, что и Исходник.
 
 # ВНИМАНИЕ!
